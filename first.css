@@ -1,0 +1,17 @@
+.container{
+    width: 1224px;
+    margin: 0 auto;
+}
+#bio,
+#contactinfo,
+#bioimage{
+    float: left;
+}
+#bio{
+    width: 70%;
+}
+#contactinfo{
+    width: 30%;
+}
+
+
